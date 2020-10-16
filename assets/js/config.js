@@ -1,7 +1,7 @@
 const PORTFOLIO_LIST = [
     {
         'title': 'LaMemo',
-        'url': '/origin/lamemo/',
+        'url': 'https://s-nought.github.io/lamemo/',
         'image_url': 'assets/img/portfolio/lamemo.jpg',
         'text': 'Application that lets you keep notes with the latex command.'
     },
